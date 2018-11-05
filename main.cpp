@@ -2,6 +2,6 @@
 
 int main()
 {
-	std::cout << "Jenkins Test Project 5" << std::endl;
+	std::cout << "Jenkins Test Project 6" << std::endl
 	return 0; 
 }
